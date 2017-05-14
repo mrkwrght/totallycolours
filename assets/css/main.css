@@ -4,7 +4,8 @@ body {
 }
 
 header {
-  padding-top: 100px;
+  padding-top: 10px;
+  padding-bottom: 70px;
 }
 
 h1 {
@@ -29,7 +30,7 @@ footer {
   padding-top: 20px;
 }
 
-a {
+.link {
   color: #343a40;
   text-decoration: none;
   color: inherit;
@@ -38,7 +39,7 @@ a {
   line-height: 1;
 }
 
-a:hover {
+.link:hover {
   border-bottom: 1px solid #29E7B8
 }
 
@@ -100,4 +101,17 @@ a:hover {
   text-align: left;
   font-weight: bold;
   font-family: "Avenir",sans-serif;
+}
+
+
+.share {
+  float:right;
+}
+
+@media screen and (max-width: 480px) {
+
+  .share {
+    display:none
+  }
+
 }

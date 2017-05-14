@@ -9,7 +9,8 @@ var randomColor6 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)
 var randomColor7 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
 
 var randomColor8 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
-var randomColor9 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);}); var randomColor10 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
+var randomColor9 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
+var randomColor10 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
 var randomColor11 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
 var randomColor12 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
  var randomColor13 = "000000".replace(/0/g,function(){return (~~(Math.random()*16)).toString(16);});
